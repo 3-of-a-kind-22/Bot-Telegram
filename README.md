@@ -22,3 +22,7 @@ Digits not part
 
 ### First step
 Launch a bot
+
+# Direct dependencies
+aiogram==2.22.2
+bs4==0.0.1
