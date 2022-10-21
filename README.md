@@ -11,7 +11,7 @@ One player thinks of a number, while the other player tries to guess it.
 The number guessed must be a 4 digit number, using only digits from 1-9.
 Each digit can only be used once.
 If the digits in the number are in their right position, they are "bulls", if different "cows"
-Digits not part
+A person wins when all of their digits are bulls
 
 # How it works?
 1) Launch the bot (click on the button "Start")
