@@ -18,7 +18,8 @@ Digits not part
 2) Pick whether you will play with a bot or person ![image](https://user-images.githubusercontent.com/115816456/197232440-366d7777-da10-43e8-b955-bee75f1519d9.png)
 3) Enter a 4 digit number ![image](https://user-images.githubusercontent.com/115816456/197232571-301d7048-25ea-4071-a17b-74ee093a8461.png)
 4) Try to guess the number ![image](https://user-images.githubusercontent.com/115816456/197233052-259b10d1-cbcc-47fd-b47b-4a3dbb01f086.png)
-5) 
+5) The bot will then tell how many "bulls" and "cows" a person has
+6) A user can click "Answer" to find out the correct number
 
 ### First step
 Launch a bot
